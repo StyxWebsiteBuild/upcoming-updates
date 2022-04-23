@@ -17,13 +17,13 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![Image]()
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://cdn.discordapp.com/icons/928792809438343189/60932c5098714c6c8b9ae992e934e4c6.png?size=4096)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
